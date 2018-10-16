@@ -1,2 +1,2 @@
 # FunctionalProgramming
-Functiona lProgramming with Haskell
+Functional Programming with Haskell
